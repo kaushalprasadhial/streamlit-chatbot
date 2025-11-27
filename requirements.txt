@@ -1,0 +1,9 @@
+streamlit
+transformers>=4.49.0
+torch
+opencv-python
+pillow
+qwen-vl-utils
+accelerate
+torchvision
+decord
